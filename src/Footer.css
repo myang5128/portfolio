@@ -1,0 +1,19 @@
+.footer {
+    justify-content: space-between;
+    z-index: 100;
+    background-color: rgb(70, 63, 58);
+    color: rgba(224, 175, 160);
+    text-align: center;
+    padding: .7rem 1.5rem;
+}
+
+.footer__links {
+    display: flex;
+    justify-content: space-evenly;
+    flex: 1;
+}
+
+.last__update,
+.footer_links {
+    margin-bottom: .6rem;
+}
