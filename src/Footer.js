@@ -13,24 +13,28 @@ function Footer() {
           <Topic
             title="Github"
             relink="https://github.com/myang5128"
+            blank='yes'
           />
         </div>
         <div className="footer__option">
           <Topic
             title="Instagram"
             relink="https://www.instagram.com/_notmikey_/"
+            blank='yes'
           />
         </div>
         <div className="footer__option">
           <Topic
             title="LinkedIn"
             relink="https://www.linkedin.com/in/michael-yang-9b46b6208/"
+            blank='yes'
           />
         </div>
         <div className="footer_option">
           <Topic
             title="Handshake"
             relink="https://vassar.joinhandshake.com/stu/users/27267917"
+            blank='yes'
           />
         </div>
       </div>

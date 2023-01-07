@@ -11,12 +11,14 @@ function Header() {
                     <Topic
                         title="About Me"
                         relink="#"
+                        blank='no'
                     />
                 </div>
                 <div className="header__tab">
                     <Topic
                         title="Messages"
                         relink="#"
+                        blank='no'
                     />
                 </div>
             </div>
@@ -30,12 +32,14 @@ function Header() {
                     <Topic
                         title="Contact"
                         relink="#"
+                        blank='no'
                     />
                 </div>
                 <div className="header__tab">
                     <Topic
                         title="Github"
                         relink="https://github.com/myang5128"
+                        blank='yes'
                     />
                 </div>
             </div>
