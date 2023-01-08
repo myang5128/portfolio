@@ -2,7 +2,7 @@ import React from 'react';
 import "./Topic.css";
 
 function Topic({ title, relink, blank }) {
-    if (blank == 'yes') {
+    if (blank === 'yes') {
         return (
             <a href={relink} target="_blank" rel="noopener noreferrer">
                 <h4>{title}</h4>
