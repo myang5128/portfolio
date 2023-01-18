@@ -16,7 +16,7 @@ function Header() {
                 </div>
                 <div className="header__tab">
                     <Topic
-                        title="Messages"
+                        title="Projects"
                         relink="#"
                         blank='no'
                     />
