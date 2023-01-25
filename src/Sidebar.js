@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
+import "Sidebar.css";
 
-function Sidebar() {
+function Sidebar({ title, relink }) {
     return (
         <div>
 
