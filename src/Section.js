@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Section() {
-  return (
-      <div>
-          
-    </div>
-  )
+function Section({ title, relink }) {
+    return (
+        <div>
+            <p to="relink">{title}</p>
+        </div>
+    )
 }
 
 export default Section

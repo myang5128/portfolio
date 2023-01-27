@@ -1,9 +1,12 @@
 import React from 'react';
 import "./Info.css";
 
-function Info({ information }) {
+function Info({ information, title }) {
   return (
-    <p>{information}</p>
+    <div>
+      <h2>{title}</h2>
+      <p>{information}</p>
+    </div>
   )
 }
 
