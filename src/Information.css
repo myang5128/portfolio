@@ -1,0 +1,9 @@
+.info__section {
+    display: flex;
+    flex: 2;
+    padding: 1rem 2rem;
+    justify-content: space-evenly;
+    z-index: 100;
+    color: rgb(70, 63, 58);
+    font-size: 1em;
+}
