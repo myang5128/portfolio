@@ -5,7 +5,7 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className='footer'>
-      <p className='last__update'>Last updated on 1/7/2023. This website is maintained and updated by Michael Yang.</p>
+      <p className='last__update'>Last updated on 1/31/2023. This website is maintained and updated by Michael Yang.</p>
 
       <div className="footer__links">
 
